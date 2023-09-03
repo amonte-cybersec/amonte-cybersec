@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Home Labs:</h2>
 
-  - [LimaCharlie](https://github.com/laburl)
-  - [ActiveDirectory](https://github.com/laburl)
-  - [Vulnerability Management](https://github.com/laburl)
-  - [REST API](https://github.com/laburl)
-  - [File Integrity Monitor](https://github.com/laburl)
+  - [LimaCharlie](https://github.com/amonte-cybersec/LimaCharlie)
+  - [ActiveDirectory](https://github.com/amonte-cybersec/ActiveDirectoryLab)
+  - [Vulnerability Management](https://github.com/amonte-cybersec/VulnerabilityManagement)
+  - [RESTful API](https://github.com/amonte-cybersec/RESTfulAPI)
+  - [File Integrity Monitor](https://github.com/amonte-cybersec/FileIntegrityMonitor)
 
 <h2>👨‍💻 Certifications:</h2>
 
