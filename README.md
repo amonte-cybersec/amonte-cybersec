@@ -7,6 +7,7 @@
   - [Vulnerability Management](https://github.com/amonte-cybersec/VulnerabilityManagement)
   - [RESTful API](https://github.com/amonte-cybersec/RESTfulAPI)
   - [File Integrity Monitor](https://github.com/amonte-cybersec/FileIntegrityMonitor)
+  - [Password Cracking W/ Cain and Abel / JohnTheRipper](https://github.com/amonte-cybersec/FileIntegrityMonitor)
 
 <h2>👨‍💻 Certifications:</h2>
 
