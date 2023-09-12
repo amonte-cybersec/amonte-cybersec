@@ -7,7 +7,7 @@
   - [Vulnerability Management](https://github.com/amonte-cybersec/VulnerabilityManagement)
   - [Password Cracking ](https://github.com/amonte-cybersec/PasswordCracking)
   - [RESTful API](https://github.com/amonte-cybersec/RESTfulAPI)
-  - [File Integrity Monitor](https://github.com/amonte-cybersec/FileIntegrityMonitor)
+  - [File Integrity Monitor (FIM)](https://github.com/amonte-cybersec/FileIntegrityMonitor)
   
 
 <h2>👨‍💻 Certifications:</h2>
